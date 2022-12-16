@@ -16,6 +16,9 @@ because you can replace the implementation by changing the adapter without affec
 the interfaces.
 * The **Renderer** builds an HTTP response using the data fed to it by the **Action**.
 
+## Decision
+Use ADR for Increases Testability and usability.
+
 ## Consequences
 
 Keeps the code clean by keeps all un bound data within the Repository interface

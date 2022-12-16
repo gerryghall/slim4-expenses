@@ -8,12 +8,12 @@ Accepted
 
 ## Context
 
-Allows for rapid development.
+Choose a Fast and complaint Framework
 
 ## Decision
 
-The change that we're proposing or have agreed to implement.
+Use Slim4
 
 ## Consequences
-
-Should have a working API off the shelf that follows today's standards.
+Allows for rapid development.
+Will have a working API off the shelf that follows today's standards.
